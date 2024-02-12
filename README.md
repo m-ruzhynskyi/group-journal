@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Group Journal</h1>
 
-<p align="center"><img src="https://socialify.git.ci/m-ruzhynskyi/groupJournal/image?font=Raleway&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Signal&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/m-ruzhynskyi/group-journal/image?description=1&descriptionEditable=Simple%20way%20to%20moderate&font=Source%20Code%20Pro&name=1&owner=1&pattern=Overlapping%20Hexagons&theme=Dark" alt="project-image"></p>
 
 <p id="description">Small React app to make using a journal in university easier and more comfortable</p>
 
