@@ -1,0 +1,13 @@
+.variantsBlock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.variantsBlock .variants {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+/*# sourceMappingURL=category.module.css.map */
