@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/group-journal/static/css/main.1345e3ac.css",
+    "main.js": "/group-journal/static/js/main.ded4844c.js",
+    "static/media/Poppins-Regular.ttf": "/group-journal/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/group-journal/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/group-journal/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Poppins-Bold.ttf": "/group-journal/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/Slackey-Regular.ttf": "/group-journal/static/media/Slackey-Regular.3e823f8310895440fd6a.ttf",
+    "static/media/group.png": "/group-journal/static/media/group.c1e6261f1cac09957009.png",
+    "static/media/moderate.png": "/group-journal/static/media/moderate.4fa370fc5f716331dd83.png",
+    "index.html": "/group-journal/index.html",
+    "main.1345e3ac.css.map": "/group-journal/static/css/main.1345e3ac.css.map",
+    "main.ded4844c.js.map": "/group-journal/static/js/main.ded4844c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1345e3ac.css",
+    "static/js/main.ded4844c.js"
+  ]
+}
