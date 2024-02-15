@@ -8,9 +8,9 @@
 
 There is three types of user with different level of access:
 
-*   Admin - include all three categories (moderate, journal, group). Pass: admin
-*   Helper - include two categories moderate and journal. Pass: helper
-*   Writer - include only journal. Pass: writer
+*   admin - include all three categories (moderate, journal, group). Pass: admin
+*   helper - include two categories moderate and journal. Pass: helper
+*   writer - include only journal. Pass: writer
 
 <h2>🧐 Features</h2>
 
