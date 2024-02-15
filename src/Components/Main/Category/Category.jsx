@@ -10,15 +10,10 @@ export default function Category({user}) {
     const navigate = useNavigate()
     function nextPage(e) {
         if (e){
-            let nextPage = e.target.closest('.block_block__QO6Rt').children[1].textContent.toLowerCase()
+            let nextPage = e.target.closest('.block_block__eBazp').children[1].textContent.toLowerCase()
             navigate(nextPage)
         } else navigate('')
     }
-
-    useEffect(() => {
-        navigate('')
-        // eslint-disable-next-line
-    }, []);
 
     return (
         <Routes>

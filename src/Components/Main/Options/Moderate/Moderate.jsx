@@ -15,7 +15,7 @@ export default function Moderate(){
         e.target.parentElement.style.padding = '15px 20px'
     }
     useEffect(() => {
-        navigate(nextPage);
+        (nextPage !== '') && navigate(nextPage);
         // eslint-disable-next-line
     }, [nextPage]);
     return(

@@ -50,12 +50,7 @@ export default function GroupMiss() {
         }
         // eslint-disable-next-line
     }, [choice]);
-
-    useEffect(() => {
-        navigate('')
-        // eslint-disable-next-line
-    }, []);
-
+    
     return(
         <section className={modules.groupMiss}>
             <Routes>
